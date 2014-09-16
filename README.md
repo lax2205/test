@@ -60,10 +60,12 @@ Maps
 * Create a javascript file in the /js directory called locate.js
 * In the file, create a class called LocateMe which accepts two variables, first_name and last_name with defaults as "John" and "Doe"
 * In the constructor of the class initialize two variables, first_name to your first name, and last_name to your last_name
+* Add two more default values - latitude and longitude and initialize them to 0 in the constructor 
 * Create a class function called getLocation which gets the latitude and longitude from the browser using HTML5 api
-* Create a html view /mylocation.html with a menu item on the left menu 
-* In my location, create 2 text inputs, firstname, and lastname, and a submit button
+* Create a html view /mylocation.html along with a menu item on the left menu 
+* In mylocation.html, create 2 text inputs, firstname, and lastname, and a submit button
 * On submit, use the text input values and create an instance of the class. Use the getLocation from the class to get your location
-* Print your location to the page
+* Print your location using the class instance to the page in this format "<first_name> <last_name> is currently located at <latitude>, <longitude>"
+
 
 
