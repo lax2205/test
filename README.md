@@ -6,6 +6,7 @@ Screening Test
 * Execute each one of the below 5 tasks. If you leave any task incomplete, comment your code to reflect where it is incomplete along with the reason
 
 * Keep your code clean and organized. Comment your code liberally. 
+* Make sure that your code works on Google Chrome and Firefox
 
 
 ### 1. jQuery UI
